@@ -41,5 +41,5 @@ Content of this tutorial is as follows,
 
 ## References for Sample Data Used
 * Farr, T. G., et al. (2007), The Shuttle Radar Topography Mission, Rev. Geophys., 45, RG2004, doi:10.1029/2005RG000183.
-* Diva GIS Data
+* Hijmans, R.J., Guarino, L., Jarvis, A., O’Brien, R., Mathur, P., Bussink, C., Cruz, M., Barrantes, I. & Rojas, E. DIVA-GIS. Available at: www.diva-gis.org
 * Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., & Moore, R. (2017). Google Earth Engine: Planetary-scale geospatial analysis for everyone. Remote Sensing of Environment.
