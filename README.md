@@ -21,15 +21,15 @@ This included fundamentals of Python programing language and fundamentals of Pyt
   * Session 1.4 - Functions and Libraries
 
 * Chapter 2 - Working with Raster Data in Python
- * Session 2.1 - Matrix (Images) in Python
- * Session 2.2 - Geo Referenced Images in Python
- * Session 2.3 - Plotting, Visualizations in Python
- * Session 2.4 - Analysis - Raster Operations (Case Studies)
+  * Session 2.1 - Matrix (Images) in Python
+  * Session 2.2 - Geo Referenced Images in Python
+  * Session 2.3 - Plotting, Visualizations in Python
+  * Session 2.4 - Analysis - Raster Operations (Case Studies)
 
 * Chapter 3 - Working with Vector Data in Python
- * Session 3.1 - Read, Write and Visualize Shapefiles
- * Session 3.2 - Working with Attribute Table
- * Session 3.3 - Working with Geometries (Vector Operations)
+  * Session 3.1 - Read, Write and Visualize Shapefiles
+  * Session 3.2 - Working with Attribute Table
+  * Session 3.3 - Working with Geometries (Vector Operations)
 
 ## Achnowledgement
 
