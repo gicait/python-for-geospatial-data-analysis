@@ -40,6 +40,6 @@ Content of this tutorial is as follows,
 
 
 ## References for Sample Data Used
-* SRTM Data
+* Farr, T. G., et al. (2007), The Shuttle Radar Topography Mission, Rev. Geophys., 45, RG2004, doi:10.1029/2005RG000183.
 * Diva GIS Data
 * Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., & Moore, R. (2017). Google Earth Engine: Planetary-scale geospatial analysis for everyone. Remote Sensing of Environment.
