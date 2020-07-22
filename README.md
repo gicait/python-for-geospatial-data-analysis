@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This included fundamentals of Python programing language and fundamentals of Python for geospatial data analysis including vector and raster data.
+This includes few sessions covering fundamentals of Python programing language and fundamentals of Python programming for geospatial data analysis including vector and raster data.
 
 ## Libraries used
 
@@ -34,6 +34,7 @@ Content of this tutorial is as follows,
   * Session 3.2 - Working with Attribute Table
   * Session 3.3 - Working with Geometries (Vector Operations)
 
-## Achnowledgement
+## Acknowledgements
+
 
 ## References for Data Used
