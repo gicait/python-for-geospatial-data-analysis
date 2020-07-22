@@ -39,4 +39,7 @@ Content of this tutorial is as follows,
 ## Acknowledgements
 
 
-## References for Data Used
+## References for Sample Data Used
+* SRTM Data
+* Diva GIS Data
+* Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., & Moore, R. (2017). Google Earth Engine: Planetary-scale geospatial analysis for everyone. Remote Sensing of Environment.
