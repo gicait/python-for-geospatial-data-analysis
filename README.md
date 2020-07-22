@@ -12,6 +12,9 @@ This included fundamentals of Python programing language and fundamentals of Pyt
 * geopandas
 
 ## Content
+
+Content of this tutorial is as follows,
+
 * Chapter 0 - Installation
 
 * Chapter 1 - Introduction of Python
