@@ -14,7 +14,7 @@ This included fundamentals of Python programing language and fundamentals of Pyt
 ## Content
 * Chapter 0 - Installation
 * Chapter 1 - Introduction of Python
-** Session 1 - 
+  * Session 1 - 
 * Chapter 2 - Working with Raster Data in Python
 * Chapter 2 - Working with Vector Data in Python
 
