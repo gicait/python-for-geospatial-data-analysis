@@ -6,7 +6,7 @@ This includes short and minimalistic few sessions covering fundamentals of Pytho
 
 Each chapter includes several Python Jupyter Notebooks with code samples with example. And data used in codes are also included in the chapter folder.
 
-## Libraries used
+## Libraries Used
 
 * numpy
 * gdal
