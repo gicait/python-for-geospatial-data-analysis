@@ -4,7 +4,7 @@
 
 This includes short and minimalistic few sessions covering fundamentals of Python programing language and fundamentals of Python programming for geospatial data analysis including vector and raster data.
 
-Each chapter includes several Python Jupyter Notebooks with code samples with example. And data used in codes are also included in the chapter folder.
+Each chapter includes several Python Jupyter Notebooks with example codes. And data used in example codes are also included in chapter folders.
 
 ## Libraries Used
 
