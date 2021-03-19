@@ -37,7 +37,7 @@ Content of this tutorial is as follows,
   * Session 3.3 - Working with Geometries (Vector Operations)
 
 ## Acknowledgements
-Created by N. Lakmal Deshapriya for activites of Geoinformatics Center of Asian Institute of Technology, Thailand.
+Created by [N. Lakmal Deshapriya](https://github.com/lakmalnd) for activites of Geoinformatics Center of Asian Institute of Technology, Thailand.
 
 ## References for Sample Data Used
 * Farr, T. G., et al. (2007), The Shuttle Radar Topography Mission, Rev. Geophys., 45, RG2004, doi:10.1029/2005RG000183.
